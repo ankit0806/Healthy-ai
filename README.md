@@ -1,4 +1,4 @@
-# Healthcare-AI-WebApp
+# Healthy-ai
 
 
 Artificial intelligence is a rapidly developing field with new improvements that happen every day, it allows the automation and simplification of human activities in different industries like agriculture, Banking and Financial Services, healthcare, travel...
