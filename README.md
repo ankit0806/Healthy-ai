@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 
 ```sh
-python wsgi.py
+python main.py
 ```
 
 
