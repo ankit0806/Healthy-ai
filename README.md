@@ -1,9 +1,5 @@
 # Healthcare-AI-WebApp
 
-![slide1](https://user-images.githubusercontent.com/83681204/132836093-c80aca67-b58d-420b-8155-23d1e54d46ac.jpg)
-
-<h3> AltairCare can be accessed by the given link: https://altair-care.herokuapp.com </h3>
-
 
 Artificial intelligence is a rapidly developing field with new improvements that happen every day, it allows the automation and simplification of human activities in different industries like agriculture, Banking and Financial Services, healthcare, travel...
 <br>
@@ -20,19 +16,7 @@ In my application AltairCare i used machine learning and deep learning algorithm
 </ul>
 
 
-
-![slide2](https://user-images.githubusercontent.com/83681204/132843407-0d59dca9-d0cc-4a3d-a75b-6d995aca761e.jpg)
-
-
 Each Disease have it's own page with an overview and symptoms that patient may have, and also the prediction model information and required parameters that user must provide
-
-<h2> Disease page : </h2>
-
-![Capture d’écran 2022-03-21 à 17 43 16](https://user-images.githubusercontent.com/83681204/159312257-c9382514-bf8a-4dd2-afc6-777e2e0f812d.png)
-
-<h2> Prediction page : </h2>
-
-![Capture d’écran 2022-03-21 à 17 43 50](https://user-images.githubusercontent.com/83681204/159312337-8a8f8932-473b-4c66-a7f2-c63f1b045c5b.png)
 
 All the datasets used to train the models can be found in the Kaggle website
 
@@ -48,8 +32,8 @@ All the datasets used to train the models can be found in the Kaggle website
 
 
 ```sh
-git clone https://github.com/kaymen99/Healthcare-AI-WebApp.git
-cd Healthcare-AI-WebApp
+git clone https://github.com/ankit0806/Healthy-ai.git
+cd Healthy-ai
 ```
 
 
