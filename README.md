@@ -16,7 +16,7 @@ In my application Healthy.ai, I have used machine learning and deep learning alg
 </ul>
 
 
-Each Disease have it's own page with an overview and symptoms that patient may have, and also the prediction model information and required parameters that user must provide.
+Each Disease has it's own page with an overview and symptoms that patient may have, and also the prediction model information and required parameters that user must provide.
 
 All the datasets used to train the models can be found in the Kaggle website
 
@@ -49,10 +49,9 @@ pip install -r requirements.txt
 
 
 ```sh
-python main.py
+python wsgi.py
 ```
 
-<h2> Link :- https://dotted-furnace-383814.el.r.appspot.com/ </h2>
 
 
 
